@@ -56,6 +56,8 @@ This project was contributed to by:
 * 0.1
     * Initial Release
 
+#LICENSE
+ Apache License
 
 
 
