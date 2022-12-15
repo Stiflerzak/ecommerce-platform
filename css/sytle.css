@@ -6,7 +6,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-
+/* css for styling the navigation bar */
 .navbar{
   display: flex;  
   align-items: center;
@@ -59,6 +59,7 @@ p{
     line-height: 60px;
     margin:25px 0 ;
 }
+/* css for styling append tags */
 .btn{
   display: inline-block;  
   background: rgb(128, 49, 0);
@@ -134,6 +135,7 @@ h4{
 .column-4:hover{
     transform: translateY(-5px) ;
 }
+/* css for styling customer offer div */
 .customer-offer{
     background: radial-gradient(#fff,#ffd6d6);
     margin-top: 80px;
@@ -141,4 +143,7 @@ h4{
 }
 .column-2 .offer-img{
    padding: 50px; 
+}
+small{
+   color:#555; 
 }
