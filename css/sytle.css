@@ -112,3 +112,24 @@ margin-top: 70px
     line-height: 60px;
     color: #555;
 }
+.Trending-Products::after{
+    content: '';
+    background: rgb(133, 89, 89);
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left:50%;
+    transform: translateX(-50%);
+}
+h4{
+  color:#555 
+  font-weight: normal; 
+}
+.column-4 p{
+    font: 14px; ;
+}
+.column-4:hover{
+    transform: translateY(-5px) ;
+}
