@@ -134,3 +134,11 @@ h4{
 .column-4:hover{
     transform: translateY(-5px) ;
 }
+.customer-offer{
+    background: radial-gradient(#fff,#ffd6d6);
+    margin-top: 80px;
+    padding: 30px o;
+}
+.column-2 .offer-img{
+   padding: 50px; 
+}
