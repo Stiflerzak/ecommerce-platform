@@ -101,6 +101,7 @@ margin-top: 70px
     padding:10px;
     min-width: 200px;
     margin-bottom: 50px;
+    transition: 0.5s;
 }
 .column-4 img{
    width: 100px; ; 
