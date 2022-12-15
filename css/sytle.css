@@ -51,3 +51,19 @@ p{
     max-width: 100%;
     padding: 50px 0;
 }
+.column-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin:25px 0 ;
+}
+.btn{
+  display: inline-block;  
+  background: rgb(128, 49, 0);
+  color: aliceblue;
+  padding: 8px 30px;
+  margin: 30px 0;
+  border-radius: 30px;
+}
+.header{
+    background: radial-gradient(#fff,#ffd6d6);
+}
