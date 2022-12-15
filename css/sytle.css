@@ -96,3 +96,19 @@ margin-top: 70px
     padding-left: 25px;
     padding-right: 25px;
 }
+.column-4{
+    flex-basis:25%;
+    padding:10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+.column-4 img{
+   width: 100px; ; 
+}
+.Trending-Products{
+    text-align: center;
+    margin: 80px;
+    position:relative;
+    line-height: 60px;
+    color: #555;
+}
