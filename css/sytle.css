@@ -79,4 +79,20 @@ p{
 .header .row{
 margin-top: 70px
 }
-
+.categories{
+   margin: 70px 0; 
+}
+.column-3{
+    flex-basis:30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+.column-3 img{
+    width: 100%;
+}
+.small-container{
+    max-width: 1080px;
+    margin:auto ;
+    padding-left: 25px;
+    padding-right: 25px;
+}
