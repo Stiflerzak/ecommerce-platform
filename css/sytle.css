@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
 
 .navbar{
   display: flex;  
@@ -63,7 +66,17 @@ p{
   padding: 8px 30px;
   margin: 30px 0;
   border-radius: 30px;
+  transition:0.5s
 }
+.btn:hover{
+    background: #b73b3b;
+}
+
+
 .header{
     background: radial-gradient(#fff,#ffd6d6);
 }
+.header .row{
+margin-top: 70px
+}
+
