@@ -148,5 +148,18 @@ small{
    color:#555; 
 }
 .brands{
-
+    margin: 100px auto;  
+    
+}
+.columns-5{
+    width: 160px;
+  
+}
+.columns-5 img{
+    width: 100%;
+    cursor: pointer;
+    filter: grayscale(100%);   
+}
+.columns-5 img:hover{
+    filter: grayscale(0);
 }
