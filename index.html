@@ -20,18 +20,19 @@
                 <img src="/assets/logo3.png" width="125px">
             </div>
             <!-- creating navigation bar -->
-            <nav>
+            <nav class="navbar">
                 <ul>
                     <li><a href="">Home</a></li>
                     <li><a href="">Products</a></li>
                     <li><a href="">About</a></li>
                     <li><a href="">Contact</a></li>
                     <li><a href="">Account</a></li>
+                    <!-- Search form -->
                     <input type="search" value="" placeholder="search" id="search" onchange="displayproduct()">
                 </ul>
             </nav>
             <!-- Creating a shopping cart logo-->
-            <img src="/assets/shopping cart.svg" width="30px" height="30px">
+           <a href="#"><img src="/assets/shopping cart.svg" width="30px" height="30px"></a>
         </div>
         <!-- Creating two columns for TechnoGlobe Mission and homepage img  -->
         <div class="row">
@@ -163,6 +164,35 @@
         </div>
 
     </div>
+    <!-- Contact us section -->
+    <section class="contact" id="contact">
+
+    <h1 class="heading" style="text-align:center ;"> <span>Contact</span> Us </h1>
+
+    <div class="row">
+
+        
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.792230453361!2d36.78849671432579!3d-1.2994604990522198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f109993a4db3b%3A0x935a305c457e3dd0!2sNgong%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1671395638189!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><form action="">
+            <h3 style="text-align:center;">Get in touch</h3>
+            <div class="inputBox">
+                <span class="fas fa-user"></span>
+                <input type="text" placeholder="name">
+            </div>
+            <div class="inputBox">
+                <span class="fas fa-envelope"></span>
+                <input type="email" placeholder="email">
+            </div>
+            <div class="inputBox">
+                <span class="fas fa-phone"></span>
+                <input type="number" placeholder="number">
+            </div>
+            <input type="submit" value="contact now" class="btn">
+        </form>
+
+    </div>
+
+</section>
+
 
     <!-- adding footer -->
 
