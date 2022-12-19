@@ -7,9 +7,9 @@ For this project, attention has been on the design of user interface. HTML, pure
 # Getting Started
 <h2><u>This project is hosted hence can be accessed using the link below:</u></h2>
     
-     https://ecommerce-platform-two.vercel.app/
+   <a>https://ecommerce-platform-two.vercel.app/</a>
     
-  <a></a>
+ 
   
 
   <h2><u>To run this mini-project locally, Ensure you have :</u></h2>
