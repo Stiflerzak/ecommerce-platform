@@ -225,3 +225,10 @@ ul{
 .app-logo img{
     width: 140px;
 }
+.footer hr{
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+}
